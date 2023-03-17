@@ -19,7 +19,7 @@ TODO
 You can install pysolidworks using pip:
 
 ```shell
-pip install pysolidworks
+python setup.py install
 ```
 
 ## Documentation
